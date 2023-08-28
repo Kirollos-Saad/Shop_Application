@@ -14,6 +14,7 @@ Welcome to the Shop Application! This Flutter project showcases an e-commerce mo
 - Update user profile information including name, email, and phone.
 - User authentication and token-based API requests.
 - Loading indicators and error handling for a smooth user experience.
+- Navigate screens swiftly with the intuitive bottom navigation bar.
 
 
 ## Technologies Used
